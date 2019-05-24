@@ -1,5 +1,3 @@
-# Step 1 - Generate token
-
 ### Auth to Rightech IoT Cloud
 
 1. Open https://sandbox.rightech.io/auth

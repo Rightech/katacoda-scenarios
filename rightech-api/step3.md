@@ -1,1 +1,3 @@
-# Step 3 - Create object control
+```
+curl -XPOST https://app.rightech.io/api/v1/object
+```
